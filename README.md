@@ -3,6 +3,7 @@
 # ⌨️ TypeSpeed
 
 **A full-stack typing speed application built with React, FastAPI, and MySQL.**
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/9db375dd-8773-4cdc-bff4-afbdc8674f6e" />
 
 Track your WPM, accuracy, and personal progress over time. Compete on a global leaderboard. Sign in with Google.
 
